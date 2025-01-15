@@ -5,7 +5,7 @@ Denne guiden viser hvordan du kan lese inn og plotte måleresultater fra en CSV-
 **NB! Husk å lagre .csv-filene i samme mappe som pythonscriptet.**
 
 
-## Forutsetninger 🛠️
+## Forutsetninger 
 
 Du må ha følgende Python-pakker installert:
 - `numpy`
